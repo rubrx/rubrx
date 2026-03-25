@@ -12,6 +12,7 @@
 - Backend engineering with **Node.js (TypeScript)**
 - Practicing DSA + system design  
 - Focus on **high performance, real-time, production-grade systems**
+- GATE 2026 Qualified
 - Email: **rubrangsokri07@gmail.com**
 
 ## Tech Stack
